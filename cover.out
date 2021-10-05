@@ -1,0 +1,7 @@
+mode: count
+github.com/meltemseyhan/gowebservice/main basic.go:34.14,89.2 39 1
+github.com/meltemseyhan/gowebservice/main basic.go:91.15,100.2 7 1
+github.com/meltemseyhan/gowebservice/main basic.go:102.15,123.2 16 1
+github.com/meltemseyhan/gowebservice/main basic.go:125.13,146.2 8 1
+github.com/meltemseyhan/gowebservice/main basic.go:148.16,165.2 9 1
+github.com/meltemseyhan/gowebservice/main.go:9.13,13.2 2 0
