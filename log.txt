@@ -1,0 +1,16 @@
+2021/10/05 18:52:21 This is a log message !
+2021/10/05 18:52:28 This is a log message !
+INFO: 2021/10/07 10:32:51 main_basic.go:229: This is an info message !
+INFO: 2021/10/07 10:32:51 main_basic.go:232: This is a warning message !
+INFO: 2021/10/07 10:32:51 main_basic.go:235: This is an error message !
+INFO: 2021/10/07 10:32:51 main_basic.go:238: This is a fatal message !
+INFO: 2021/10/07 10:33:20 main_basic.go:229: This is an info message !
+INFO: 2021/10/07 10:33:20 main_basic.go:232: This is a warning message !
+INFO: 2021/10/07 10:33:20 main_basic.go:235: This is an error message !
+INFO: 2021/10/07 10:33:50 main_basic.go:229: This is an info message !
+WARNING: 2021/10/07 10:33:50 main_basic.go:232: This is a warning message !
+ERROR: 2021/10/07 10:33:50 main_basic.go:235: This is an error message !
+INFO: 2021/10/07 10:34:08 main_basic.go:229: This is an info message !
+WARNING: 2021/10/07 10:34:08 main_basic.go:232: This is a warning message !
+ERROR: 2021/10/07 10:34:08 main_basic.go:235: This is an error message !
+FATAL: 2021/10/07 10:34:08 main_basic.go:238: This is a fatal message !
